@@ -1,6 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script: cleanup_backup.sh
+# Autor: Talles Gomes
 # Descrição: Remove backups antigos do datapump mantendo os
 #            3 mais recentes (~6 dias considerando backup 2 em 2 dias)
 # Diretório: /u01/backup/datapump/backup_datapump_CDBAGROS_SIAGRI/CDBAGROS
