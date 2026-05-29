@@ -1,0 +1,1 @@
+# Script_Apaga_Backup_Oracle
