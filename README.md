@@ -135,6 +135,6 @@ Limpeza concluída em: 2026-05-29 23:30:02
 
 ---
 
-## 👤 Autor
+## Talles Gomes
 
 Infraestrutura — AGROSANTA PROD
